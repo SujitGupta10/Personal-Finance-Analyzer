@@ -1,0 +1,22 @@
+{
+    "03-09-2026": {
+        "expenses": [
+            {
+                "Item": "jalebi",
+                "Category": "food",
+                "Amount": 10.0
+            },
+            {
+                "Item": "comb",
+                "Category": "houshold",
+                "Amount": 20.0
+            },
+            {
+                "Item": "egg",
+                "Category": "food",
+                "Amount": 30.0
+            }
+        ],
+        "total": 60.0
+    }
+}
