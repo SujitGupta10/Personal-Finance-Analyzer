@@ -1,4 +1,4 @@
-# Expense Tracker
+# Personal Expense Analyzer
 
 A Python-based command-line application for recording and analyzing personal expenses. The application automatically assigns the current date to expenses and stores the data persistently in a JSON file.
 
